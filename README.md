@@ -2,18 +2,18 @@
 
 Requires: Matlab
 
-function vopt = ola_dpss(W, L, T)
-DPSS window for overlap-add processing
-Input parameters:
-  W - bandwidth (typically in the range 4 to 10)
-  L - total length of window
-  T - length of flat top (default: 0); overlap length is then (L-T)/2.
-Output:
-  vopt - optimal window
+function vopt = ola_dpss(W, L, T) <br>
+DPSS window for overlap-add processing <br>
+Input parameters: <br>
+  W - bandwidth (typically in the range 4 to 10) <br>
+  L - total length of window <br>
+  T - length of flat top (default: 0); overlap length is then (L-T)/2. <br>
+Output: <br>
+  vopt - optimal window <br>
 
 Examples:
 
-w = ola_dpss(4,100);
+w = ola_dpss(4,100); <br>
 w = ola_dpss(8,50,10);
 
 
