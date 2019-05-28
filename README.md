@@ -16,6 +16,11 @@ Examples:
 w = ola_dpss(4,100); <br>
 w = ola_dpss(8,50,10);
 
+Disclaimer:
+
+Works well only for smallish windows. Needs manual hacking for larger windows. The reason is that the
+numerical optimizer fails.
+
 
 ## Copyright notice
 
