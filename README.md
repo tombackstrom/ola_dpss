@@ -16,6 +16,17 @@ Examples:
 w = ola_dpss(4,100); <br>
 w = ola_dpss(8,50,10);
 
+Original publication:
+
+Bäckström, T., "Overlap-add Windows with Maximum Energy Concentration ...
+    for Speech and Audio Processing", 2019, ICASSP 2019 - 2019 IEEE ...
+        International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, p. 491-495 5 p. (Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing).
+    
+    https://ieeexplore.ieee.org/document/8683577
+    
+    https://arxiv.org/abs/1902.01053
+    
+
 Disclaimer:
 
 Works well only for smallish windows. Needs manual hacking for larger windows. The reason is that the
