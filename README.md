@@ -22,9 +22,9 @@ Bäckström, T., "Overlap-add Windows with Maximum Energy Concentration ...
     for Speech and Audio Processing", 2019, ICASSP 2019 - 2019 IEEE ...
         International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, p. 491-495 5 p. (Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing).
     
-    https://ieeexplore.ieee.org/document/8683577
+<a href="https://ieeexplore.ieee.org/document/8683577">https://ieeexplore.ieee.org/document/8683577</a>
     
-    https://arxiv.org/abs/1902.01053
+<a href="https://arxiv.org/abs/1902.01053">https://arxiv.org/abs/1902.01053</a>
     
 
 Disclaimer:
